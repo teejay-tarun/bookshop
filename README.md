@@ -25,9 +25,9 @@ File or Folder | Purpose
 Learn more at https://cap.cloud.sap/docs/get-started/.
 
 ## Notes
-cds init
-add schema.cds
-add catalog-service.cds
-npm start
-npm install sqlite -D
-cds deploy --to sqlite:bookshop.db
+- cds init
+- add schema.cds
+- add catalog-service.cds
+- npm start
+- npm install sqlite -D
+- cds deploy --to sqlite:bookshop.db
