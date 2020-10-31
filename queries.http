@@ -1,0 +1,12 @@
+GET http://localhost:4004/catalog/Books
+
+
+###
+POST http://localhost:4004/catalog/Books
+Content-Type: application/json
+
+{"ID": 301,
+"title": "This is my sample book",
+"stock": 10,
+"author_ID" : 101
+}
